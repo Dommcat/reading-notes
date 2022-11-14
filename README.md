@@ -14,6 +14,6 @@ Growth mindset means to me...
 3
 
 
-Here is a link to my github portflio, enjoy: dommcat.github.io/reading-notes/
+Here is a link to my github portflio, enjoy: [My Github Portfolio] https: dommcat.github.io/reading-notes/
 
  
