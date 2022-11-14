@@ -1,4 +1,5 @@
 # reading-notes
+
 Codefellows 102  Reading Notes Journal
 
 
@@ -14,3 +15,5 @@ Growth mindset means to me...
 
 
 Here is a link to my github portflio, enjoy: 
+
+ 
