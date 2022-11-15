@@ -5,7 +5,7 @@
 
 Hello. My name is *Dommcat* :cat: and I love **cats**. I have seven. 
 
-A Growth Mindset to me is about setting and holding a positive intention for learning. All experience, even the kind that can sting, is positive - if you learn from it and move forward along the path.    
+A Growth Mindset to me is about setting and holding a positive intention for learning. All experience, even the kind that stings, is positive - if you learn from it - and move forward along the path.    
 
 Three short reminders I use to hold a growth mindset are: 
 - Be Positive 
