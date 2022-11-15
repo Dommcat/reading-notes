@@ -12,7 +12,7 @@ Three short reminders I use to hold a growth mindset are:
 - Be Helpful 
 - Be Authentic 
 
-Also, cats can help with improving the growth mindset. Try one (or seven) and see for yourself. 
+Also, cats can help with improving the growth mindset. Adopt a cat (or seven) and see for yourself. 
 
 Here is a link to my github portflio, enjoy: [My Github Portfolio] (https: dommcat.github.io/reading-notes/)
 
