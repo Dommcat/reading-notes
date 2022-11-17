@@ -1,19 +1,27 @@
 # reading-notes
 
-**102 Reading Notes Journal**
+102 Reading Notes Journal
 
 
-Hello. My name is *Dommcat* :cat: and I love **cats**. I have seven. 
+Hello. My name is *Dommcat* :cat: and I love **cats**. I have seven.
 
-A Growth Mindset to me is about setting and holding a positive intention for learning. All experience, even the kind that stings, is positive - if you learn from it - and move forward along the path.    
+A Growth Mindset to me is about setting and holding a positive intention for learning. All experience, even the kind that stings, is positive - if you learn from it - and move forward along the path.
 
-Three short reminders I use to hold a growth mindset are: 
-- Be Positive 
-- Be Helpful 
-- Be Authentic 
+Three short reminders I use to hold a growth mindset are:
 
-Also, cats can help with improving the growth mindset. Adopt a cat (or seven) and see for yourself. 
+- Be Positive
+- Be Helpful
+- Be Authentic
 
-Here is a link to my github portflio, enjoy: [My Github Reading Notes](https: dommcat.github.io/reading-notes/).
 
- 
+Also, cats can help with improving the growth mindset. Adopt a cat (or seven) and see for yourself.
+Here is a link to my github portflio, enjoy: [My Github Portfolio](https://github.com/Dommcat/reading-notes)
+
+
+# Table of Contents 
+
+1. [Class1](102/class1.md)
+2.
+3.
+4.
+5.
