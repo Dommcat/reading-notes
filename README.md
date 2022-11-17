@@ -1,6 +1,6 @@
 # reading-notes
 
-#Codefellows 102 Reading Notes Journal
+102 Reading Notes Journal
 
 
 Hello. My name is *Dommcat* :cat: and I love **cats**. I have seven. 
