@@ -30,3 +30,7 @@ Using nothing
 Side Note: I'm old. declare syntax let and const were added in 2015. Back in my early analyst days days (years before then) it was VAR to declare. Not sure I can break the habit.
 
 Source: <https://www.w3schools.com/js/js_variables.asp>
+
+## Things I want to know more about
+
+1. syntax
