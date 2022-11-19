@@ -1,6 +1,6 @@
 # Class 7 Reading Notes: Programming with JavaScript
 
-Summary: This class is about programming with Java Script. Include control flow which is the order the computer executes statements in a script, functions, operators.
+Summary: This class is about programming with Java Script. Includes concept of control flow which is the order the computer executes statements in a script, functions, operators.
 
 A JavaScript function is a block of code designed to perform a particular task.Function names can contain letters, digits, underscores, and dollar signs (same rules as variables).The parentheses may include parameter names separated by commas:
 (parameter1, parameter2, ...)
@@ -42,7 +42,6 @@ The += assignment operator can also be used to add (concatenate) strings:
 Function definition (also called a function declaration, or function statement) consists of the function keyword, followed by:
 
 The JavaScript statements that define the function, enclosed in curly brackets, { /*…*/ }.
-
 
 ## Things I want to know more about
 

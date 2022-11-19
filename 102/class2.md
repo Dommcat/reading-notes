@@ -6,7 +6,7 @@ In this class we are looking at setting up the coders computer and in particular
 
 ### Classifications of text editors/Choosing a text editor
 
-Imortant Features/capabilities for text editors:
+Important Features/capabilities for text editors:
 
 -Code completion capabilites
 
