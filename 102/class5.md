@@ -1,7 +1,7 @@
 
 # Class 5 Reading Notes: Design web pages with CSS
 
-Summary: This class is about web design or how the website looks using a styling language called CSS.
+Summary: This class is about web design or how the website looks using a styling language called CSS. This topic is important because as any judgy developer would say...looks are important. Don't judge me bro!
 
 What is CSS?
 
@@ -42,3 +42,8 @@ CSS Tools Reset Styles:
 The goal of a reset stylesheet is to reduce browser inconsistencies in things like default line heights, margins and font sizes of headings.
 
 Source: <https://meyerweb.com/eric/tools/css/reset/>
+
+## Things I want to know more about
+
+Moving stuff around or floats
+RGB colors
