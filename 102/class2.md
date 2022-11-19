@@ -2,7 +2,7 @@
 
 ## Summary
 
-In this class we are looking at setting up the coders computer and in particular the text editor programs used to code.
+In this class we are looking at setting up the coders computer and in particular the text editor programs used to code. This topic matters because it discusses the primary tools developers use to write and edit code.
 
 ### Classifications of text editors/Choosing a text editor
 
@@ -29,3 +29,7 @@ Sources Provided:
  [Basic Naviagtion] (<https://ryanstutorials.net/linuxtutorial/navigation.php>)
 
  [More about Files] (<https://ryanstutorials.net/linuxtutorial/aboutfiles.php>)
+
+## Things I want to know more about
+
+1. extensions

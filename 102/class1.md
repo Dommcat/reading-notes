@@ -4,7 +4,7 @@
 
 - Markdown is a light weight text markup language with an easy syntax for basic web design
 
-- Git is the code technology used to share and collaberate
+- Git is the code technology used to share and collaborate
 
 - Github is a web platform used to develop websites using the git technology
 
