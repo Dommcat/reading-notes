@@ -14,6 +14,7 @@ Also, cats can help with improving the growth mindset. Adopt a cat (or seven) an
 Here is a link to my github portflio, enjoy: [My Github Portfolio](https://github.com/Dommcat/reading-notes)
 
 ## Code 102 Class Notes
+
 ## Table of Contents
 
 1. [Class 1](102/class1.md)
