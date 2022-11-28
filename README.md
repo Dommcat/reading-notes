@@ -27,3 +27,21 @@ Here is a link to my github portflio, enjoy: [My Github Portfolio](https://githu
 8. [Class 8](102/class8.md)
 
 ## Code 201 Class Notes
+
+## Table of Contents
+
+1. [Class 1](201/class1.md)
+2. [Class 2](201/class2.md)
+3. [Class 3](201/class3.md)
+4. [Class 4](201/class4.md)
+5. [Class 5](201/class5.md)
+6. [Class 6](201/class6.md)
+7. [Class 7](201/class7.md)
+8. [Class 8](201/class8.md)
+9. [Class 9](201/class9.md)
+10. [Class 10](201/class10.md)
+11. [Class 11](201/class11.md)
+12. [Class 12](201/class12.md)
+13. [Class 13](201/class13.md)
+14. [Class 14](201/class14.md)
+14. [Class 15](201/class15.md)
