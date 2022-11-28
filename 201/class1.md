@@ -54,4 +54,11 @@ The closing tag
 -What is the Difference between <article> and <section> element tags
 -What Elements does a “typical” website include?
 -How does metadata influence Search Engine Optimization?
+
 -How is the <meta> HTML tag used when specifying metadata?
+Metadata is data that describes data, and HTML has an "official" way of adding metadata to a document — the <meta> element.
+
+[Source] https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML#adding_a_title
+
+## Things I want to know more about
+Meta Data and SEO Search Engine Optimizing
