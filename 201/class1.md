@@ -27,7 +27,7 @@ Q: How do you create a String vs a Number in JavaScript?
 A: If you have a numeric variable that you want to convert to a string but not change otherwise, or a string variable that you want to convert to a number but not change otherwise, you can use the following two constructs:
 
 The Number object converts anything passed to it into a number, if it can. Try the following:
-const myString = "123";
+const myString = "123";cs
 const myNum = Number(myString);
 console.log(typeof myNum);
 Copy to Clipboard
@@ -58,7 +58,8 @@ The closing tag
 -How is the <meta> HTML tag used when specifying metadata?
 Metadata is data that describes data, and HTML has an "official" way of adding metadata to a document — the <meta> element.
 
-[Source] https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML#adding_a_title
+[Source] <https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML#adding_a_title>
 
 ## Things I want to know more about
+
 Meta Data and SEO Search Engine Optimizing
