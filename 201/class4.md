@@ -3,7 +3,7 @@
 ## Summary: This class is about HTML Links, Control Flow with JS, JS Functions, and Intro to CSS Layout
 
 Q:To create a basic link, we wrap text or other content inside what element?
-A:  inside an <a> element and using...
+A:  inside an element and using...
 
 Q: The href attribute contains what information?
 A: The href attribute, also known as a Hypertext Reference, or target, that contains the web address.
