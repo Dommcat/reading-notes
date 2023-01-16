@@ -1,6 +1,6 @@
 # 301 Reading Notes
 
-## Class 5 Summary; This class is about Readings: Putting it all togeather
+## Class 5 Summary; This class is about Readings: Putting it all together
 
 Q: What is the single responsibility principle and how does it apply to components?
 A: The component should ideally only do one thing
