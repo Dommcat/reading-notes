@@ -39,6 +39,7 @@ HTTP status code 204 (No Content),
 <https://learn.microsoft.com/en-us/azure/architecture/best-practices/api-design>
 
 ## bookmarks
+
 <https://regexr.com/>
 
 <https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285>
