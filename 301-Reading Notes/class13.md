@@ -2,7 +2,7 @@
 
 ## Class 12 Summary: This class reading is about More CRUD
 
-https://medium.com/geekculture/crud-operations-explained-2a44096e9c88
+<https://medium.com/geekculture/crud-operations-explained-2a44096e9c88>
 
 Which HTTP method would you use to update a record through an API?
 PUT. This replaces all current data of the target resource.PUT request — /appointments/:id.
@@ -13,7 +13,6 @@ GET (retrieve a specific resource)
 PUT (update a specific resource)
 PATCH (update a specific resource partially)
 DELETE (delete a specific resource)
-
 
 What’s the relationship between REST and CRUD?
 -Create (POST)
@@ -33,5 +32,7 @@ Implement the server-side logic: Write the server-side code to handle the incomi
 
 Test and document the API: Once the server-side logic is implemented, test the API thoroughly to ensure it's working as expected and document the API with clear instructions on how to use it.
 
-Source : https://www.youtube.com/watch?v=EzNcBhSv1Wo
-Source: https://chat.openai.com/chat
+Source : <https://www.youtube.com/watch?v=EzNcBhSv1Wo>
+Source: <https://chat.openai.com/chat>
+
+## Things I want to know more about
