@@ -1,9 +1,10 @@
 # Reading Notes Journal
 
-This site is a collection of reading notes
+*This site is a collection of reading notes from Code 102 to Code 401**
 
 ## Code 102 Class Notes
-## 102 Table of Contents
+
+## Table of Contents
 
 1. [Class 1](102/class1.md)
 2. [Class 2](102/class2.md)
@@ -15,7 +16,8 @@ This site is a collection of reading notes
 8. [Class 8](102/class8.md)
 
 ## Code 201 Class Notes
-## 201 Table of Contents
+
+Table of Contents
 
 1. [Class 1](201-Reading-Notes/class1.md)
 2. [Class 2](201-Reading-Notes/class2.md)
@@ -33,9 +35,9 @@ This site is a collection of reading notes
 14. [Class 14](201-Reading-Notes/class14.md)
 15. [Class 15](201-Reading-Notes/class15.md)
 
-## Code 401 Class Notes
+## Code 301 Class Notes
 
-## 301 Table of Contents
+Table of Contents
 
 1. [Class 1](301-Reading-Notes/class1.md)
 2. [Class 2](301-Reading-Notes/class2.md)
@@ -51,9 +53,11 @@ This site is a collection of reading notes
 12. [Class 12](301-Reading-Notes/class12.md)
 13. [Class 13](301-Reading-Notes/class13.md)
 14. [Class 14](301-Reading-Notes/class14.md)
-15. [Class 15](301-Reading-Notes/class15.md) 
+15. [Class 15](301-Reading-Notes/class15.md)
 
-## Code 401 Class Notes
+## Code 401 - Advanced Software Development
+
+Table of Contents
 
 1. [Class 1](401-Reading-Notes/class1.md)
 2. [Class 2](401-Reading-Notes/class2.md)
