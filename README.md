@@ -55,11 +55,7 @@ This site is a collection of reading notes
 14. [Class 14](301-Reading-Notes/class14.md)
 15. [Class 15](301-Reading-Notes/class15.md) -->
 
-
-
-
-
-## Code 401 Class Notes:
+## Code 401 Class Notes
 
 1. [Class 1](401-Reading-Notes/class1.md)
 2. [Class 2](401-Reading-Notes/class2.md)
