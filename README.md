@@ -1,9 +1,8 @@
-<!-- # Reading Notes Journal
+# Reading Notes Journal
 
 This site is a collection of reading notes
 
 ## Code 102 Class Notes
-
 ## 102 Table of Contents
 
 1. [Class 1](102/class1.md)
@@ -16,7 +15,6 @@ This site is a collection of reading notes
 8. [Class 8](102/class8.md)
 
 ## Code 201 Class Notes
-
 ## 201 Table of Contents
 
 1. [Class 1](201-Reading-Notes/class1.md)
@@ -53,7 +51,7 @@ This site is a collection of reading notes
 12. [Class 12](301-Reading-Notes/class12.md)
 13. [Class 13](301-Reading-Notes/class13.md)
 14. [Class 14](301-Reading-Notes/class14.md)
-15. [Class 15](301-Reading-Notes/class15.md) -->
+15. [Class 15](301-Reading-Notes/class15.md) 
 
 ## Code 401 Class Notes
 
