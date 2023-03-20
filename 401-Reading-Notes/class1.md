@@ -1,54 +1,35 @@
 # 401 Class 1 Reading Notes
 
-## Summary: This class is about SQL  
+## Readings Summary: This class is about: Topic
 
-**Relational databases store data in structured tables with rows and columns, ensuring efficient data management and retrieval. SQL is a standardized programming language used to interact with these databases, allowing users to create, manipulate, and retrieve data. The relational model and SQL work together to maintain data integrity and consistency while providing a powerful means for data storage and access.**
+- Reading
+- Pain and Suffering
+- Beginners Guide to Big O
+- Additional Resources
+  - Season 1, Episode 6, A friendly intro to Big O Notation
+- Videos
+  - Names and Values in Python
+  -Awesome Python Environment
+- Python Module of the Week
 
-## Relational Database Components
+Big O notation is a way of describing the upper bound of the time or space complexity of an algorithm, which is a measure of the amount of resources required by the algorithm as the input size grows. In other words, it's a way of characterizing how much time or memory an algorithm needs to complete its task.
 
-1. **Tables (Relations)**: Store data in a structured format, with rows (tuples) representing individual records and columns (attributes) representing the properties of those records.
-2. **Primary Key**: A unique identifier for each row in a table, ensuring data integrity and enabling easy access to specific records.
-3. **Foreign Key**: A column or a set of columns in a table that refers to the primary key of another table, helping establish relationships between tables and maintain data consistency.
-4. **Schema**: Defines the structure of the database, including tables, columns, data types, and relationships between tables.
-5. **SQL (Structured Query Language)**: A standardized programming language used to create, manipulate, and retrieve data from relational databases.
-6. **Indexes**: Database objects that improve query performance by providing a more efficient way to access data stored in tables.
-7. **Constraints**: Rules applied to columns or tables to enforce data integrity and maintain consistency.
-8. **Views**: Virtual tables derived from one or more existing tables, allowing users to access data without directly interacting with the underlying tables.
-9. **Transactions**: Sets of database operations executed as a single unit, ensuring data consistency and integrity, even in the case of errors or system failures.
-10. **Normalization**: A process of organizing data in a database to minimize redundancy and improve data integrity.
+In Big O notation, the time or space complexity of an algorithm is expressed as a function of the size of the input, typically denoted as "n". For example, if the time complexity of an algorithm is O(n), this means that the amount of time required by the algorithm is proportional to the size of the input.
 
-In summary, a **relational database** is a powerful data management system that organizes data into structured tables and utilizes various components to ensure data integrity, consistency, and efficient retrieval.
+The "O" in Big O notation stands for "order of magnitude", and it represents the upper bound of the time or space complexity of an algorithm. For example, if an algorithm has a time complexity of O(n^2), this means that the time required by the algorithm is proportional to the square of the input size, and it cannot take more time than that.
 
+The Big O notation is used to compare the efficiency of different algorithms that solve the same problem. Algorithms with a lower time or space complexity are considered to be more efficient, as they require fewer resources to complete the same task.
 
-## Bash Command Line Tutorial Summary Observations And Learnings
+Overall, Big O notation is a useful tool for analyzing the time or space complexity of algorithms and understanding how the performance of an algorithm changes as the input size increases. It is a powerful way to optimize algorithms and make them more efficient.
 
-Linux is Case Sensitive
-
-This is very important and a common source of problems for people new to Linux. Other systems such as Windows are case insensitive when it comes to referring to files. Linux is not like this. As such it is possible to have two or more files and directories with the same name but letters of different case.
-
-Linux actually has a very simple and elegant mechanism for specifying that a file or directory is hidden. If the file or directory's name begins with a . (full stop) then it is considered to be hidden.
+Python names refer to values
 
 
-### Basic Navigation:
+## Sources
 
-| Command | Description |
-| --- | --- |
-| `pwd` | Print current working directory |
-| `cd` | Change directory |
-| `ls` | List contents of current directory |
-| `mkdir` | Create a new directory |
-| `rmdir` | Remove an empty directory |
-| `rm -r` | Remove a directory and its contents |
+<https://robbell.io/2009/06/a-beginners-guide-to-big-o-notation>
+<https://www.codenewbie.org/basecs/8>
+<https://www.youtube.com/watch?v=_AEJHKGk9ns>
+<https://pymotw.com/3/index.html>
 
-### More About Files:
-
-| Command | Description |
-| --- | --- |
-| `touch` | Create an empty file |
-| `cat` | Print the contents of a file to the terminal |
-| `less` | Display the contents of a file one page at a time |
-| `head` | Display the first few lines of a file |
-| `tail` | Display the last few lines of a file |
-| `mv` | Move or rename a file |
-| `cp` | Copy a file |
-| `rm` | Remove a file |
+## Things I want to know more about

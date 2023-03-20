@@ -58,7 +58,7 @@ Table of Contents
 ## Code 401 - Advanced Software Development
 
 Table of Contents
-
+[prepClass 1](401-Reading-Notes/prepclass1.md)
 1. [Class 1](401-Reading-Notes/class1.md)
 2. [Class 2](401-Reading-Notes/class2.md)
 3. [Class 3](401-Reading-Notes/class3.md)
