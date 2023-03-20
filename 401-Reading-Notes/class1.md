@@ -18,3 +18,37 @@
 10. **Normalization**: A process of organizing data in a database to minimize redundancy and improve data integrity.
 
 In summary, a **relational database** is a powerful data management system that organizes data into structured tables and utilizes various components to ensure data integrity, consistency, and efficient retrieval.
+
+
+## Bash Command Line Tutorial Summary Observations And Learnings
+
+Linux is Case Sensitive
+
+This is very important and a common source of problems for people new to Linux. Other systems such as Windows are case insensitive when it comes to referring to files. Linux is not like this. As such it is possible to have two or more files and directories with the same name but letters of different case.
+
+Linux actually has a very simple and elegant mechanism for specifying that a file or directory is hidden. If the file or directory's name begins with a . (full stop) then it is considered to be hidden.
+
+
+### Basic Navigation:
+
+| Command | Description |
+| --- | --- |
+| `pwd` | Print current working directory |
+| `cd` | Change directory |
+| `ls` | List contents of current directory |
+| `mkdir` | Create a new directory |
+| `rmdir` | Remove an empty directory |
+| `rm -r` | Remove a directory and its contents |
+
+### More About Files:
+
+| Command | Description |
+| --- | --- |
+| `touch` | Create an empty file |
+| `cat` | Print the contents of a file to the terminal |
+| `less` | Display the contents of a file one page at a time |
+| `head` | Display the first few lines of a file |
+| `tail` | Display the last few lines of a file |
+| `mv` | Move or rename a file |
+| `cp` | Copy a file |
+| `rm` | Remove a file |
