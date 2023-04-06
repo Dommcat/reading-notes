@@ -1,4 +1,4 @@
-# 401 Class 9 Reading Notes
+# 401 Class 12 Reading Notes
 
 ## Summary: This class is about Pandas
 
