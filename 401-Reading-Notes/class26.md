@@ -59,7 +59,6 @@ Bootstrap CSS, on the other hand, is a more traditional CSS framework that provi
 In summary, Tailwind CSS is focused on providing a flexible and customizable way to style HTML elements using utility classes, while Bootstrap CSS is focused on providing a comprehensive set of pre-built UI components and styles for building responsive web applications. The choice of framework depends on the specific needs and preferences of the project and the development team.
 
 
-
 ## Sources:
 
 ChatGPT 
