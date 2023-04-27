@@ -1,6 +1,6 @@
 # 401 Advanced Python: Class 29 Reading Notes
 
-## Summary: This class reading is about: Django Custom User
+## Summary: This class reading is about: Django Custom User, DjangoX
 
 Django Custom User is a feature in the Django web framework that allows developers to create their own user models, tailored to their specific application requirements. It provides flexibility and customization beyond the default Django User model, enabling developers to modify, add, or remove fields related to authentication, authorization, and user data management. This allows for a more personalized user experience and better security, while ensuring the application's long-term scalability and maintainability.
 
