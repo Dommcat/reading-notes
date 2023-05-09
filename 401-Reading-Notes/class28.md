@@ -15,7 +15,7 @@ Django, CRUD, and forms are important for building web applications that require
 
 Template inheritance is a feature of Django Templates that allows developers to create a base template that can be extended by other templates. This is useful for improving code reusability and maintainability, as it allows common elements such as headers, footers, and navigation menus to be defined in a single template and reused across multiple pages.
 
-To use template inheritance, you start by creating a base template that defines the overall structure of the page. This template can include placeholders for content that will be added by child templates. Child templates extend the base template by using the {% extends %} tag, and then define their own content using the {% block %} tag.
+To use template inheritance, you start by creating a base template that defines the overall structure of the page. This template can include placeholders for content that will be added by child templates.
 
 When a child template is rendered, Django replaces the content of the {% block %} tags with the content defined in the child template, while leaving the rest of the page layout intact.
 
