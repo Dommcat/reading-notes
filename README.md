@@ -105,6 +105,7 @@ Table of Contents
 44. [Class 44](401-Reading-Notes/class44.md)
 45. [Class 45](401-Reading-Notes/class45.md)
 46. [prepClass 1](401-Reading-Notes/prepclass1.md)
+47. [Resume](https://docs.google.com/document/d/1odbKeqIKnzeUMh0rtpcpJd21Gg6JcnojUyHo6qmS-1Y/edit?usp=sharing)
 
 
 
